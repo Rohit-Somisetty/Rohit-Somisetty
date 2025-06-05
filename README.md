@@ -10,19 +10,19 @@
   <tr>
     <td>
       <b>🔍 <a href="https://github.com/Rohit-Somisetty/OCR-RAG-Pipeline">OCR-RAG-Pipeline</a></b><br>
-      <sub><i>Automates document understanding by combining OCR and RAG. Processes structured and scanned PDFs, extracts context-aware insights, and supports hybrid retrieval mechanisms.</i></sub><br>
+      <sub>Automates document understanding by combining OCR and RAG. Processes structured and scanned PDFs, extracts context-aware insights, and supports hybrid retrieval mechanisms.</sub><br>
       <sub><b>Tech:</b> Python, LlamaIndex, Tesseract, OpenCV, Hugging Face</sub>
     </td>
     <td>
       <b>🧠 <a href="https://github.com/Rohit-Somisetty/LLM_Web_Summarizer">LLM_Web_Summarizer</a></b><br>
-      <sub><i>Turns any news URL into a professional summary and Instagram caption using multiple local LLMs. Includes stealth scraping, summarization, and emoji-rich captions.</i></sub><br>
+      <sub>Turns any news URL into a professional summary and Instagram caption using multiple local LLMs. Includes stealth scraping, summarization, and emoji-rich captions.</sub><br>
       <sub><b>Tech:</b> Ollama, Selenium, BeautifulSoup, ipywidgets</sub>
     </td>
   </tr>
   <tr>
     <td>
       <b>📸 <a href="https://github.com/Rohit-Somisetty/Insta_Post_generator">Insta_Post_generator</a></b><br>
-      <sub><i>Fetches online news articles, summarizes them like a senior editor, and generates Instagram-ready captions using local LLMs and web automation.</i></sub><br>
+      <sub>Fetches online news articles, summarizes them like a senior editor, and generates Instagram-ready captions using local LLMs and web automation.</sub><br>
       <sub><b>Tech:</b> Python, LLMs, Web Scraping, Prompt Engineering</sub>
     </td>
     <td>
@@ -34,12 +34,12 @@
   <tr>
     <td>
       <b>🧑‍💻 <a href="https://github.com/Rohit-Somisetty/Facial-Recognition-System">Facial-Recognition-System</a></b><br>
-      <sub><i>Lightweight face recognition using FaceNet embeddings to identify top 5 similar faces from a 12,000-image dataset with efficient vector comparison.</i></sub><br>
+      <sub>Lightweight face recognition using FaceNet embeddings to identify top 5 similar faces from a 12,000-image dataset with efficient vector comparison.</sub><br>
       <sub><b>Tech:</b> Python, FaceNet, NumPy, Distance Metrics</sub>
     </td>
     <td>
       <b>🐶 <a href="https://github.com/Rohit-Somisetty/Image-Classification-CNN-">Image-Classification-CNN</a></b><br>
-      <sub><i>Cats vs. Dogs image classifier built using PyTorch CNN. Applies data augmentation, trains on Kaggle dataset, and evaluates classification accuracy.</i></sub><br>
+      <sub>Cats vs. Dogs image classifier built using PyTorch CNN. Applies data augmentation, trains on Kaggle dataset, and evaluates classification accuracy.</sub><br>
       <sub><b>Tech:</b> PyTorch, CNN, Data Augmentation</sub>
     </td>
   </tr>
