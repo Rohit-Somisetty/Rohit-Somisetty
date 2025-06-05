@@ -27,7 +27,7 @@
     </td>
     <td>
       <b>😷 <a href="https://github.com/Rohit-Somisetty/Facemask_detector">Facemask_detector</a></b><br>
-      <sub><i>Real-time computer vision application that detects face masks via webcam using MobileNet, transfer learning, and Haar Cascades for face detection.</i></sub><br>
+      <sub>Real-time computer vision application that detects face masks via webcam using MobileNet, transfer learning, and Haar Cascades for face detection.</sub><br>
       <sub><b>Tech:</b> TensorFlow, OpenCV, Transfer Learning</sub>
     </td>
   </tr>
