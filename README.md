@@ -4,6 +4,46 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <b>🔍 <a href="https://github.com/Rohit-Somisetty/OCR-RAG-Pipeline">OCR-RAG-Pipeline</a></b><br>
+      <sub><i>Automates document understanding by combining OCR and RAG. Processes structured and scanned PDFs, extracts context-aware insights, and supports hybrid retrieval mechanisms.</i></sub><br>
+      <sub><b>Tech:</b> Python, LlamaIndex, Tesseract, OpenCV, Hugging Face</sub>
+    </td>
+    <td>
+      <b>🧠 <a href="https://github.com/Rohit-Somisetty/LLM_Web_Summarizer">LLM_Web_Summarizer</a></b><br>
+      <sub><i>Turns any news URL into a professional summary and Instagram caption using multiple local LLMs. Includes stealth scraping, summarization, and emoji-rich captions.</i></sub><br>
+      <sub><b>Tech:</b> Ollama, Selenium, BeautifulSoup, ipywidgets</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>📸 <a href="https://github.com/Rohit-Somisetty/Insta_Post_generator">Insta_Post_generator</a></b><br>
+      <sub><i>Fetches online news articles, summarizes them like a senior editor, and generates Instagram-ready captions using local LLMs and web automation.</i></sub><br>
+      <sub><b>Tech:</b> Python, LLMs, Web Scraping, Prompt Engineering</sub>
+    </td>
+    <td>
+      <b>😷 <a href="https://github.com/Rohit-Somisetty/Facemask_detector">Facemask_detector</a></b><br>
+      <sub><i>Real-time computer vision application that detects face masks via webcam using MobileNet, transfer learning, and Haar Cascades for face detection.</i></sub><br>
+      <sub><b>Tech:</b> TensorFlow, OpenCV, Transfer Learning</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>🧑‍💻 <a href="https://github.com/Rohit-Somisetty/Facial-Recognition-System">Facial-Recognition-System</a></b><br>
+      <sub><i>Lightweight face recognition using FaceNet embeddings to identify top 5 similar faces from a 12,000-image dataset with efficient vector comparison.</i></sub><br>
+      <sub><b>Tech:</b> Python, FaceNet, NumPy, Distance Metrics</sub>
+    </td>
+    <td>
+      <b>🐶 <a href="https://github.com/Rohit-Somisetty/Image-Classification-CNN-">Image-Classification-CNN</a></b><br>
+      <sub><i>Cats vs. Dogs image classifier built using PyTorch CNN. Applies data augmentation, trains on Kaggle dataset, and evaluates classification accuracy.</i></sub><br>
+      <sub><b>Tech:</b> PyTorch, CNN, Data Augmentation</sub>
+    </td>
+  </tr>
+</table>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
